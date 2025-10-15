@@ -4,4 +4,4 @@ Content-Type: application/json
     "title": "Video 01",
     "description": "Primeiro video",
     "duration": 180
-},
+}
